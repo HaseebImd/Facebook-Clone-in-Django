@@ -1,0 +1,102 @@
+body{
+    background: color #f8f8f8  !important;
+}
+
+.nav{
+     border-radius: 0px !important;
+     padding: 10px 0 10px 0 !important;
+     background-color: #396afc !important;
+
+
+}
+
+.mb-7{
+    margin-bottom: 7px !important;
+}
+
+.mt-7{
+    margin-top: 5px !important;
+}
+#mymodal{
+    margin-left: 3% !important;
+
+    height:auto !important;
+    width: auto;
+
+    
+    font-size: 20px !important;
+}
+
+.mb-5{
+    margin-bottom: 5px !important;
+}
+
+.bwhite-lg{
+    background-color: transparent !important;
+    
+}
+
+.bwhite-sm{
+    background-color: transparent !important;
+    width: 10px !important;
+
+}
+
+
+.comment-box{
+    display: none;
+}
+
+
+#for_profile{
+    margin-left: 60%;
+    color:royalblue;
+}
+#for_btn{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+#post_comment_button{
+    margin-top: 10px;
+}
+
+#all_comments{
+    margin-left: 80%;
+    background-color:goldenrod;
+}
+
+#main_content{
+    padding-left: 20%;
+}
+
+#comment_body_color{
+    color: black;
+    margin-left: 33px;
+}
+#comment_user_color{
+    color: black;
+
+}
+
+#see_profile{
+    margin-top: 10px;
+    background-color: green;
+}
+
+#posts_show{
+      background-color:  darkgoldenrod;
+}
+
+
+#receivedlikes_show{
+    background-color:green;
+}
+#friends_show{
+    background-color: red;
+}
+
+
+
+
+
